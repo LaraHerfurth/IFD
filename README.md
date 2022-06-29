@@ -12,7 +12,7 @@ Projekt mit Tina Baumgärtel:
 
 - Evaluation: https://github.com/LaraHerfurth/IFD/blob/main/Evaluation.pdf
 
-- Entwicklung: https://github.com/LaraHerfurth/IFD/blob/main/Entwicklung-unseres-Prototyps.pdf 
+- Entwicklung: https://github.com/LaraHerfurth/IFD/blob/main/Entwicklung%20unseres%20Prototyps.pdf
 
 - Abschlusspräsentation: https://github.com/LaraHerfurth/IFD/blob/main/Abschlusspr%C3%A4sentation.pdf
 
